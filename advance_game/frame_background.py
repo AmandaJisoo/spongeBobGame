@@ -1,4 +1,5 @@
 # coding=utf-8
+#critical bug on ball speed and direction
 import pygame
 import os
 
